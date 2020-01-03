@@ -47,7 +47,7 @@
                     <manifest>
 
                     <!-- give full qualified name of your main class-->
-                      <mainClass>/spring-boot-example/src/main/java/com/in28minutes/springboot/tutorial/SpringBootWebApplication.java</mainClass>
+                      <mainClass>com.in28minutes.springboot.tutorial.SpringBootWebApplication</mainClass>
 
                     </manifest>
                   </archive>

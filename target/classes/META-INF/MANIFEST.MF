@@ -7,6 +7,6 @@ Build-Jdk: 1.8.0_201
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/spring-boot-example
 Created-By: Maven Integration for Eclipse
-Main-Class: /spring-boot-example/src/main/java/com/in28minutes/springb
- oot/tutorial/SpringBootWebApplication.java
+Main-Class: com.in28minutes.springboot.tutorial.SpringBootWebApplicati
+ on
 
