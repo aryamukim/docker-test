@@ -4,6 +4,7 @@
   <artifactId>spring-boot-example</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>spring-boot-example</name>
+  <packaging>jar</packaging>
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
@@ -52,6 +53,10 @@
                     </manifest>
                   </archive>
                 </configuration>
+    </plugin>
+    <plugin>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-maven-plugin</artifactId>
     </plugin>
  </plugins>
 </build>
